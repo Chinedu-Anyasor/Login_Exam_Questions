@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.nav{
+    padding: 2% 8%;
+    text-align: center;
+    background-color: rgba(4,9,30,0.7);
+    margin: 1%;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.nav h1{
+    font-weight: 700px;
+    color: #fffefe;
+}
+nav img{
+    width: 100px;
+}
+.secondpage{
+    padding: 2% 4%;
+}
+.secondpage h3{
+    text-align: center;
+    padding-bottom: 30px;
+    text-decoration: underline;
+}
+.note{
+    padding-bottom: 9px;
+    text-decoration: underline;
+}
+.time{
+    padding-bottom: 25px;
+    text-decoration: underline;
+}
+.form-col{
+    flex: 50%;
+    padding: 10px;
+}
+.row{
+    display: flex;
+}
+
+.submit{
+    text-align: left;
+    border: 3px solid rgba(4,9,30,0.7);
+    position: absolute;
+}
